@@ -38,7 +38,7 @@ Model koristi TF-IDF vektorizaciju teksta i Logistic Regression algoritam za kla
 \## Kako pokrenuti projekat
 
 
-1. Instalirati potrebne biblioteke:
+1\. Instalirati potrebne biblioteke:
 
 pip install pandas scikit-learn joblib
 
@@ -57,4 +57,5 @@ python predict\_category.py
 
 
 Nakon pokretanja skripte za predikciju, potrebno je unijeti naziv proizvoda, a model će ispisati predviđenu kategoriju.
+
 
